@@ -1,4 +1,4 @@
-## Welcome to [EduReef](edureef.github.io)
+## Welcome to [EduReef](https://edureef.github.io/)
 
 ### Support or Contact
 
